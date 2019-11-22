@@ -1,0 +1,6 @@
+S => WZ|YU|0|1|ZZ|UU
+X => ZX|UX|0|1
+Z => 0
+U => 1
+W => ZX
+Y => UX
